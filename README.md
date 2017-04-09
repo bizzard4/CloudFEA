@@ -1,4 +1,7 @@
 # CloudFEA
 Saas FEA
 
-See wiki for modules description.
+## Requirements
+
+- Python 3
+- Sfepy installed
